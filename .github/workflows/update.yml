@@ -20,11 +20,12 @@ jobs:
 
       - name: Extract just domains (no comments/blanks), sort
         run: |
-          grep -Ev '^#|^$' fresh.txt | sort -u > scraped.txt
+          grep -Ev '^#|^$' fresh.txt \
+            | awk '{print $2}' \
+            | sort -u > scraped.txt
 
       - name: Prepare existing list
         run: |
-          # ensure the file exists
           touch domains.txt
           grep -Ev '^#|^$' domains.txt | sort -u > existing.txt
 
