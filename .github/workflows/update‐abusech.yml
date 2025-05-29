@@ -1,0 +1,29 @@
+name: Update abuse.ch domains
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      - name: Download abuse.ch hostfile
+        run: |
+          curl -sSf https://urlhaus.abuse.ch/downloads/hostfile/ -o domains.txt
+
+      - name: Clean up domains list
+        run: |
+          grep -Ev '^#|^$' domains.txt > clean-domains.txt
+          mv clean-domains.txt domains.txt
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update abuse.ch domains list"
+          file_pattern: domains.txt
+          branch: main
