@@ -1,29 +1,47 @@
-name: Update abuse.ch domains
+name: Hourly Update abuse.ch Domains
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  fetch-and-commit:
+  update-domains:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out repo
+      - name: Check out the repo
         uses: actions/checkout@v3
 
-      - name: Download abuse.ch hostfile
+      - name: Download fresh abuse.ch hostfile
         run: |
-          curl -sSf https://urlhaus.abuse.ch/downloads/hostfile/ -o domains.txt
+          curl -sSf https://urlhaus.abuse.ch/downloads/hostfile/ \
+            -o fresh.txt
 
-      - name: Clean up domains list
+      - name: Extract just domains (no comments/blanks), sort
         run: |
-          grep -Ev '^#|^$' domains.txt > clean-domains.txt
-          mv clean-domains.txt domains.txt
+          grep -Ev '^#|^$' fresh.txt | sort -u > scraped.txt
 
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update abuse.ch domains list"
-          file_pattern: domains.txt
-          branch: main
+      - name: Prepare existing list
+        run: |
+          # ensure the file exists
+          touch domains.txt
+          # extract & sort your current domains
+          grep -Ev '^#|^$' domains.txt | sort -u > existing.txt
+
+      - name: Find truly new domains
+        run: |
+          comm -23 scraped.txt existing.txt > new.txt
+
+      - name: Append new domains (if any) and commit
+        run: |
+          if [ -s new.txt ]; then
+            cat new.txt >> domains.txt
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add domains.txt
+            git commit -m "chore: add $(wc -l < new.txt) new domains"
+            git push
+          else
+            echo "No new domains to add"
+          fi
