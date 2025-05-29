@@ -26,7 +26,6 @@ jobs:
         run: |
           # ensure the file exists
           touch domains.txt
-          # extract & sort your current domains
           grep -Ev '^#|^$' domains.txt | sort -u > existing.txt
 
       - name: Find truly new domains
