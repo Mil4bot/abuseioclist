@@ -603,3 +603,5 @@ h4.amissdeserving.top
 h4.donateddealing.top
 mi.spokesmangraveyard.top
 social-secure-gov.com
+pnrt.kotomari-vn.dev
+redlk.com
