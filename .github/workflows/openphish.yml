@@ -1,0 +1,43 @@
+name: Twice Daily Update openphish Domains
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-openphish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v3
+
+      - name: Download openphish feed
+        run: |
+          curl -sSf https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt -o feed.txt
+
+      - name: Extract unique domains
+        run: |
+          awk -F/ '{print $3}' feed.txt | awk -F: '{print $1}' | sort -u > scraped.txt
+
+      - name: Prepare existing list
+        run: |
+          touch domains.txt
+          grep -Ev '^#|^$' domains.txt | sort -u > existing.txt
+
+      - name: Find truly new domains
+        run: |
+          comm -23 scraped.txt existing.txt > new.txt
+
+      - name: Append new domains (if any) and commit
+        run: |
+          if [ -s new.txt ]; then
+            cat new.txt >> domains.txt
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add domains.txt
+            git commit -m "chore: add $(wc -l < new.txt) openphish domains"
+            git push
+          else
+            echo "No new domains to add"
+          fi
