@@ -631,3 +631,5 @@ gameupdate-endpoint.com
 luminati-china.xyz
 unproxy.st
 vitalidadclub.com.co
+h4.confidantthieving.space
+liddar.ca
