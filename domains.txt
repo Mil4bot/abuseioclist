@@ -1156,3 +1156,5 @@ xmo.pages.dev
 yedek.bte.org.tr
 yhnbgt543.web.app
 listen-hard.com
+www.messias.org.br
+www.mogilux.com.br
