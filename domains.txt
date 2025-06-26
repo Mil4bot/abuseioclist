@@ -11173,3 +11173,13 @@ vpn.joumizni.de
 web.joumizni.de
 xfer.joumizni.de
 newtogo.airobotheworld.com
+cab.joumizni.de
+hub.joumizni.de
+img.joumizni.de
+jobs.joumizni.de
+k8s.joumizni.de
+logs.joumizni.de
+media.joumizni.de
+queue.joumizni.de
+repo.joumizni.de
+vredux.com
