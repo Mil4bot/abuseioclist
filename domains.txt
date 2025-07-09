@@ -16858,3 +16858,5 @@ con.third-domain.su
 screen.third-domain.su
 secure.third-domain.su
 statement.third-domain.su
+diamondvsgolden.com
+ncxps.com
