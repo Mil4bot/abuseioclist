@@ -18707,3 +18707,5 @@ sandbox.silk-gen.com
 staging.silk-gen.com
 test.silk-gen.com
 vpn.silk-gen.com
+www.retirify.sbs
+www.wgetfiles.com
