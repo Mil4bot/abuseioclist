@@ -27223,3 +27223,5 @@ ccn.fdstat.vip
 fdstat.vip
 scan.fdstat.vip
 taizi.fdstat.vip
+mc.horror1010.64bit.kr
+phpmyadmin.hebergement.ml-shop-fr.com
