@@ -32142,3 +32142,4 @@ vtb-promo.online
 down.magicpacketlease.org
 www.chaparstore.com
 www.djargish.com
+microsoft-telemetry.cc
