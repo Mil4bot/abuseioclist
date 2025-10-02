@@ -49404,3 +49404,7 @@ qz9.u-66r.ru
 v2.u-66r.ru
 m6.u-66r.ru
 t1.u-66r.ru
+k.cpc-8-u.ru
+qz9.cpc-8-u.ru
+t1.cpc-8-u.ru
+v2.cpc-8-u.ru
