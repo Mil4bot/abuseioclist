@@ -57992,3 +57992,4 @@ spark.bid5.ru
 dim.bid5.ru
 lace.bid5.ru
 pond.bid5.ru
+blackstar.bid5.ru
