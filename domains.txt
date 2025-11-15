@@ -71004,3 +71004,8 @@ krishikannada.com
 moor.copperalpen.ru
 stern.copperalpen.ru
 wind.aurorafels.ru
+fels.glaciertal.ru
+moor.glaciertal.ru
+pfad.ravenkloster.ru
+turm.ravenkloster.ru
+weide.ravenkloster.ru
