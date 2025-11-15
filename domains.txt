@@ -70984,3 +70984,10 @@ quark.waveretch.ru
 rift.waveretch.ru
 tau.stormlaterne.ru
 wolke.stormlaterne.ru
+kamm.quartzfeder.ru
+korn.emberhochland.ru
+moor.emberhochland.ru
+pfad.quartzfeder.ru
+rune.emberhochland.ru
+stern.emberhochland.ru
+weald.emberhochland.ru
