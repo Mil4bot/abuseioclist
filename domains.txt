@@ -98386,3 +98386,5 @@ zodqr.com
 api.nishant-labs.com
 my-expense.nishant-labs.com
 www.api.nishant-labs.com
+krisidev.com
+natalstatus.org
