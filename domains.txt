@@ -100646,3 +100646,8 @@ mulpdate.icu
 our.wolfeadvisory.com
 ripple.dailyoffers.coupons
 harbor.rewardwallet.coupons
+api.znet.homes
+cobalt.bargainhunter.coupons
+nova.rewardwallet.coupons
+pixel.dealfinder.coupons
+willow.bargainhunter.coupons
