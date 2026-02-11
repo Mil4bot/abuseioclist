@@ -100658,3 +100658,5 @@ breeze.travelvoucher.coupons
 cieharryalbert.fr
 crystal.travelvoucher.coupons
 petal.beautybundle.coupons
+prism.gadgetgrab.coupons
+velvet.beautybundle.coupons
