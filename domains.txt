@@ -100654,3 +100654,5 @@ willow.bargainhunter.coupons
 anchor.pricepirate.coupons
 jungle.pricepirate.coupons
 summit.dealfinder.coupons
+breeze.travelvoucher.coupons
+cieharryalbert.fr
