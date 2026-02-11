@@ -100651,3 +100651,6 @@ cobalt.bargainhunter.coupons
 nova.rewardwallet.coupons
 pixel.dealfinder.coupons
 willow.bargainhunter.coupons
+anchor.pricepirate.coupons
+jungle.pricepirate.coupons
+summit.dealfinder.coupons
