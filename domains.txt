@@ -101522,3 +101522,6 @@ oracle.fortune23tv.coupons
 pr0ph3t.fortune23tv.coupons
 r5m2x.fortune23tv.coupons
 w1nd-ll.whirl189wind.coupons
+c9n4p.connect8mathem.coupons
+calc-rn1.connect8mathem.coupons
+formula.connect8mathem.coupons
