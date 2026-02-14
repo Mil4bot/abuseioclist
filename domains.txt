@@ -101711,3 +101711,6 @@ eis-bahn.winterzug.coupons
 grand-reve.revesage.coupons
 kalt-start.winterzug.coupons
 nuit-douce.revesage.coupons
+gold-zeit.herbstlauf.coupons
+mon-tresor.noitresor.coupons
+wald-lauf.herbstlauf.coupons
