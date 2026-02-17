@@ -103346,3 +103346,7 @@ softbreeze.gentlewind.coupons
 summerday.gentlewind.coupons
 glasscube.glasspurity.coupons
 sharpedge.glasspurity.coupons
+basecommand.orbitalmap.coupons
+nodepoint.orbitalmap.coupons
+staratlas.orbitalmap.coupons
+trackorbit.orbitalmap.coupons
