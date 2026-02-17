@@ -103080,3 +103080,5 @@ strongmetal.ironpulse.coupons
 calmwater.gentlewave.coupons
 summerbreeze.gentlewave.coupons
 warmshore.gentlewave.coupons
+futureplan.brightminds.coupons
+wiseword.brightminds.coupons
