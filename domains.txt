@@ -103794,3 +103794,7 @@ magicbook.overdue13wizard.coupons
 mentalpulse.conscious86jag.coupons
 oldscroll.overdue13wizard.coupons
 wisepath.overdue13wizard.coupons
+coolsurf.bluewave.coupons
+deepcoast.bluewave.coupons
+mysticpoint.overdue13wizard.coupons
+nightwave.bluewave.coupons
