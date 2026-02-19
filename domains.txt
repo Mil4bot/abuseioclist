@@ -103915,3 +103915,12 @@ brightsky.goldstar.coupons
 brightsky.starpoint.city
 goldlight.goldstar.coupons
 riverflow.natureway.city
+app-clash.com.cn
+cyxes.pavingny.com
+desertroad.sandwave.coupons
+drywind.sandwave.coupons
+goldensand.sandwave.coupons
+kodimom.lol
+lunetes.funnyhelp.com
+roundpack.box1fig7.coupons
+www.clash-github.com.cn
