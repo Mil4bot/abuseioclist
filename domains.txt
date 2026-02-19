@@ -103943,3 +103943,9 @@ mintbase.ship48mint.coupons
 powerbeat.ironstar.coupons
 shieldns.my
 trackpolicy.xyz
+dynaquipautomation.com
+fastpack.ship48mint.coupons
+freshroute.ship48mint.coupons
+greenbird.ship46kiwi.coupons
+kiwitalk.ship46kiwi.coupons
+miriamgualda.com.br
