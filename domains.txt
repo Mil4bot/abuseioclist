@@ -104881,3 +104881,7 @@ silent-flow-node.quietwind.ru
 weather-station-data.quietwind.ru
 wild-leaf-trace.wildfern.ru
 wood-processing-unit.smartpine.ru
+central-pine-node.smartpine.ru
+it-pine-management.smartpine.ru
+smart-timber-track.smartpine.ru
+yaso.su
