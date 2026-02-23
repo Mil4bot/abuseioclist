@@ -104987,3 +104987,9 @@ crest-logic-point.clearcrest.ru
 high-altitude-sensor.clearcrest.ru
 main-crest-auth.clearcrest.ru
 ocean-harbor-gate.coolharbor.ru
+cool-port-storage.coolharbor.ru
+joahhilperic.net
+main-cool-harbor-sys.coolharbor.ru
+ship-dock-control.coolharbor.ru
+storm-bay-watch.stormbay.ru
+weather-warning-system.stormbay.ru
