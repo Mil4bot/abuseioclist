@@ -105000,3 +105000,7 @@ depth-canyon-monitor.swiftcanyon.ru
 geo-rock-sync-base.swiftcanyon.ru
 swift-canyon-pass.swiftcanyon.ru
 swift-flow-node.swiftcanyon.ru
+desert-storm-monitor.rapiddune.ru
+dune-logic-base.rapiddune.ru
+heat-sync-node.rapiddune.ru
+rapid-dune-sand.rapiddune.ru
