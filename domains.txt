@@ -109998,3 +109998,14 @@ sync-v02-edge.ventonodal.cfd
 sys-s01-monitor.prismagrid.cfd
 trace-y21-alpha.nauticbase.cfd
 web-303-proxy.optic-prime.cfd
+base-b4-steel.densocore.cfd
+bridge-e1-light.curva-flux.cfd
+field-z2-vast.polar-axis.cfd
+ghost-u9-node.nauticbase.cfd
+orbit-n0-moon.densocore.cfd
+rim-k11-outer.polar-axis.cfd
+room-v5-dark.curva-flux.cfd
+scan-a9-point.curva-flux.cfd
+space-x9-open.polar-axis.cfd
+vision-i4-sync.nauticbase.cfd
+zone-w8-area.polar-axis.cfd
