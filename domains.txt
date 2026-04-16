@@ -117074,3 +117074,5 @@ whtempdomain.com
 autoconfig.atlcpatax.com
 autodiscover.atlcpatax.com
 mail.atlcpatax.com
+friendlydomain.ru
+rapidinc.lol
