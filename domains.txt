@@ -122101,3 +122101,13 @@ srv.physiolpo1icy.lat
 vlog.clearviewcloud.lat
 vlog.physiolpo1icy.lat
 web.clearviewcloud.lat
+auth.smartlogicgate.lat
+cdn.smartlogicgate.lat
+data.fastworknode.lat
+hub.fastworknode.lat
+mast.smartlogicgate.lat
+node.fastworknode.lat
+prox.fastworknode.lat
+stat.fastworknode.lat
+sync.fastworknode.lat
+user.smartlogicgate.lat
