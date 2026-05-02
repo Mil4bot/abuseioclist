@@ -122556,3 +122556,9 @@ skip.urbanflowbase.lat
 sync.powertechlink.lat
 zeno.silvermoonlight.lat
 zeta.powertechlink.lat
+apex.urbanflowbase.lat
+gate.urbanflowbase.lat
+host.urbanflowbase.lat
+jazz.oceanwavepoint.lat
+mode.urbanflowbase.lat
+surf.oceanwavepoint.lat
