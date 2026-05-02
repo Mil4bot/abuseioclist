@@ -122570,3 +122570,11 @@ reef.oceanwavepoint.lat
 run.boldfirestep.lat
 salt.oceanwavepoint.lat
 tide.oceanwavepoint.lat
+atom.magicgoldlogic.lat
+coin.magicgoldlogic.lat
+jump.boldfirestep.lat
+key.magicgoldlogic.lat
+kick.boldfirestep.lat
+pure.magicgoldlogic.lat
+rich.magicgoldlogic.lat
+vault.magicgoldlogic.lat
