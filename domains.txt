@@ -122543,3 +122543,16 @@ p5dyz1.breadpotho1e.surf
 sub-c0ve.gabard-viewed.surf
 vibe.silvermoonlight.lat
 vormesh8or.breadpotho1e.surf
+axis.silvermoonlight.lat
+bolt.silvermoonlight.lat
+byte.powertechlink.lat
+echo.urbanflowbase.lat
+flux.silvermoonlight.lat
+grid.powertechlink.lat
+neon.powertechlink.lat
+nova.powertechlink.lat
+nx88.silvermoonlight.lat
+skip.urbanflowbase.lat
+sync.powertechlink.lat
+zeno.silvermoonlight.lat
+zeta.powertechlink.lat
