@@ -122977,3 +122977,12 @@ mobi.cyberdrift.surf
 nova.cyberdrift.surf
 omni.quantumwave.surf
 sync.cyberdrift.surf
+apex.digitaltide.surf
+atom.purelogic.surf
+core.digitaltide.surf
+edge.digitaltide.surf
+gate.digitaltide.surf
+host.digitaltide.surf
+node.cyberdrift.surf
+pure.purelogic.surf
+site.digitaltide.surf
