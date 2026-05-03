@@ -122930,3 +122930,13 @@ link.agilelid.lat
 reta-wave.woodfor.lat
 vibe.agilelid.lat
 zeta.agilelid.lat
+apex.agocert.lat
+beta.ipsetlap.lat
+core.agocert.lat
+edge.agocert.lat
+gate.agocert.lat
+grid.ipsetlap.lat
+mobi.ipsetlap.lat
+node.ipsetlap.lat
+nova.ipsetlap.lat
+sync.ipsetlap.lat
