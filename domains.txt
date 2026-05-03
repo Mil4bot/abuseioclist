@@ -122743,3 +122743,13 @@ spark.goldenleafway.lat
 wave.goldenleafway.lat
 zeno.goldenleafway.lat
 zoom.brightskycore.lat
+blue.magicflowpoint.lat
+fast.magicflowpoint.lat
+poon.solidstonecore.lat
+pure.magicflowpoint.lat
+qanti.solidstonecore.lat
+site.wintercoldlab.lat
+sky.magicflowpoint.lat
+star.magicflowpoint.lat
+upd.wintercoldlab.lat
+view.magicflowpoint.lat
