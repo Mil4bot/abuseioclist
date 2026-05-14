@@ -128834,3 +128834,7 @@ binary-block-tabel-expert-get.wiki
 desk-sensor-tabel-tunnel-key.wiki
 engine-block-tabel-stream-key.wiki
 virtual-routing-gateway.wiki
+cloud-infrastructure-management-platform.wiki
+distributed-cache-storage-layer.wiki
+edge-processing-network.wiki
+microservice-control-plane-node.wiki
