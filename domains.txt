@@ -129049,3 +129049,8 @@ advanced-it-infrastructure.courses
 coder-logic-vault.courses
 enterprise-security-log.courses
 quickwebdevops.courses
+cloudruntime.courses
+edge-processing-network.courses
+microservicehub.courses
+packet-routing-lab.courses
+serverless-mesh-core.courses
