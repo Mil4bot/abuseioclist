@@ -129638,3 +129638,9 @@ hydropower-irrigation.garden
 master-planting-logic-manual.garden
 sinkingyourself.courses
 wildflower-path-mapping.garden
+botanicalworkflow.garden
+distributed-petal-network.garden
+greenhousecontrolhub.garden
+irrigation-management-core.garden
+microfloraobservatory.garden
+wildflower-routing-path.garden
