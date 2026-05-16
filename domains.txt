@@ -130222,3 +130222,7 @@ meadowprocessingcenter.garden
 asynchronouswatering-system.garden
 ecosystemmanagementhub.garden
 gardeninfrastructurelab.garden
+bloommonitoringengine.garden
+botanicalprocessingengine.garden
+federatedgardencluster.garden
+irrigation-management-system.garden
