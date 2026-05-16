@@ -130257,3 +130257,6 @@ wildflorainfrastructure.garden
 botanicalautomationengine.garden
 distributed-growth-network.garden
 irrigation-resource-system.garden
+federatedmeadowcluster.garden
+flora-processing-framework.garden
+gardenworkflowcenter.garden
