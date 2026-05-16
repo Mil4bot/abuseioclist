@@ -130254,3 +130254,6 @@ xtrafftrck.net
 greenhouseoperationshub.garden
 petal-routing-platform.garden
 wildflorainfrastructure.garden
+botanicalautomationengine.garden
+distributed-growth-network.garden
+irrigation-resource-system.garden
