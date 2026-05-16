@@ -129952,3 +129952,6 @@ folder-management-core.garden
 get-on-processing-engine.garden
 micro-fan-obs-plan.garden
 packet-relay-engine.garden
+edge-network-on-hub.garden
+micro-service-cluster.garden
+telemetry-folder-stream-core.garden
