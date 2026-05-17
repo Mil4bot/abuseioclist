@@ -130570,3 +130570,7 @@ greenhouseoperationscenter.garden
 infra-blue-high-print.garden
 petaldistributionplatform.garden
 serverless-mesh-core-yet-go.garden
+botanicalmonitoringengine.garden
+distributedgardenresource.garden
+irrigationmanagementhub.garden
+wildfloraworkflowsystem.garden
