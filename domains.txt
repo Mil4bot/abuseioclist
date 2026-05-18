@@ -131050,3 +131050,8 @@ botanicalanalyticsengine.garden
 distributedmeadownetwork.garden
 federatedplantplatform.garden
 irrigationworkflowsystem.garden
+containerizedgardenhub.garden
+floraautomationnetwork.garden
+greenhousedeploymenthub.garden
+meadowmanagementcenter.garden
+petalworkflowengine.garden
