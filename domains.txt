@@ -131046,3 +131046,7 @@ greenhousecontrolplatform.garden
 jankop.shop
 petalresourceframework.garden
 wildfloraprocessinghub.garden
+botanicalanalyticsengine.garden
+distributedmeadownetwork.garden
+federatedplantplatform.garden
+irrigationworkflowsystem.garden
