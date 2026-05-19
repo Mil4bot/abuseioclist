@@ -131265,3 +131265,10 @@ desentupidora.pro.br
 interstellar-dust-nebula.garden
 stealth-bomber-radar-cross.garden
 stratographic-core-drill.garden
+botanicalautomationframework.garden
+distributedgardenanalytics.garden
+federatedgrowthnetwork.garden
+irrigationtelemetrysystem.garden
+meadowoperationshub.garden
+petalresourceengine.garden
+wildfloramanagementplatform.garden
