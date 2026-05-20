@@ -132028,3 +132028,10 @@ bloomdistributioncenter.garden
 gardeninfrastructurecore.garden
 tifameat.containerized-growth-engine.garden
 ybhyrjaj.asynchronouswateringmesh.garden
+azktfv.wildflora-processing-network.garden
+icfzyz.distributedgrowthengine.garden
+jalfms.gardenworkflowplatform.garden
+microflora-management-hub.garden
+mpvcbz.quantumvelocitylabs.study
+sdnzyq.botanical-control-system.garden
+wknzex.petalresourcehub.garden
