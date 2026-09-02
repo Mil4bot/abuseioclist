@@ -175036,3 +175036,5 @@ emeraldstonegc.blog
 mail.emeraldstonegc.blog
 odinclient.dev
 taskerempresascol.co
+brightroseax.blog
+mail.brightroseax.blog
